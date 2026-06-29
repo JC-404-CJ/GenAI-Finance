@@ -1,0 +1,10 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+pytest>=7.0
+yfinance>=1.4
+requests>=2.31
+
+# Optional, only required for live Anthropic narration
+# (set ANTHROPIC_API_KEY in your environment):
+# anthropic>=0.40
